@@ -1,4 +1,4 @@
-## Angel Solval Cardoza
+## Angel Walther Domibar Solval Cardoza
 
 soy estudiante de desarrollo web, en base a lo aprendido durante el tiempo, me gusta aplicar mis conocimiento a pequeños proyectos de desarrollo informático.
 
